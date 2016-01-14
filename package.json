@@ -1,0 +1,10 @@
+{
+  "name": "convert-to-piglatin",
+  "description": "Convert English into Piglatin",
+  "version": "0.0.1",
+  "devDependencies": {
+    "requirejs": "2.1.22",
+    "mocha":"2.3.4",
+    "chai":"3.4.1"
+  }
+}
